@@ -1,0 +1,80 @@
+PULocationID,Borough,Zone,trips,avg_duration_min,avg_distance
+186,Manhattan,Penn Station/Madison Sq West,99180,15.2,2.3
+148,Manhattan,Lower East Side,24176,13.71,2.78
+161,Manhattan,Midtown Center,134564,13.91,2.32
+107,Manhattan,Gramercy,54651,12.1,2.1
+263,Manhattan,Yorkville West,54761,10.44,2.04
+233,Manhattan,UN/Turtle Bay South,30871,13.35,2.52
+232,Manhattan,Two Bridges/Seward Park,2731,17.13,3.39
+13,Manhattan,Battery Park City,14080,17.13,4.43
+261,Manhattan,World Trade Center,11646,18.93,4.26
+70,Queens,East Elmhurst,11564,27.14,9.63
+12,Manhattan,Battery Park,810,19.91,4.54
+138,Queens,LaGuardia Airport,86299,27.21,9.73
+246,Manhattan,West Chelsea/Hudson Yards,46146,14.32,2.34
+141,Manhattan,Lenox Hill West,68762,11.12,1.88
+249,Manhattan,West Village,60340,13.01,2.21
+48,Manhattan,Clinton East,70478,12.52,2.39
+151,Manhattan,Manhattan Valley,21906,11.98,2.27
+231,Manhattan,TriBeCa/Civic Center,33485,15.01,3.0
+125,Manhattan,Hudson Sq,12470,13.58,2.49
+74,Manhattan,East Harlem North,4711,13.59,2.72
+181,Brooklyn,Park Slope,597,25.78,4.79
+146,Queens,Long Island City/Queens Plaza,1107,14.87,3.03
+39,Brooklyn,Canarsie,519,50.86,8.99
+163,Manhattan,Midtown North,80452,13.36,2.35
+224,Manhattan,Stuy Town/Peter Cooper Village,2769,12.78,2.38
+188,Brooklyn,Prospect-Lefferts Gardens,519,41.99,6.18
+10,Queens,Baisley Park,791,37.34,12.97
+76,Brooklyn,East New York,740,45.02,7.81
+211,Manhattan,SoHo,18267,14.28,2.46
+158,Manhattan,Meatpacking/West Village West,20913,14.37,2.61
+162,Manhattan,Midtown East,100962,13.38,2.25
+137,Manhattan,Kips Bay,29591,12.41,2.26
+142,Manhattan,Lincoln Square East,97333,11.71,2.1
+143,Manhattan,Lincoln Square West,31416,11.37,2.04
+166,Manhattan,Morningside Heights,11930,13.51,2.58
+7,Queens,Astoria,1003,18.13,3.45
+41,Manhattan,Central Harlem,5284,13.76,2.54
+145,Queens,Long Island City/Hunters Point,1027,19.64,5.36
+33,Brooklyn,Brooklyn Heights,775,22.96,4.75
+140,Manhattan,Lenox Hill East,60172,12.97,2.27
+238,Manhattan,Upper West Side North,58124,11.45,2.12
+229,Manhattan,Sutton Place/Turtle Bay North,51348,12.05,2.0
+50,Manhattan,Clinton West,14052,12.83,2.57
+244,Manhattan,Washington Heights South,1346,20.93,4.74
+65,Brooklyn,Downtown Brooklyn/MetroTech,1056,22.16,5.14
+25,Brooklyn,Boerum Hill,673,24.85,4.63
+97,Brooklyn,Fort Greene,825,23.09,4.11
+130,Queens,Jamaica,524,32.89,9.83
+68,Manhattan,East Chelsea,72032,15.1,2.46
+132,Queens,JFK Airport,135394,37.46,15.99
+164,Manhattan,Midtown South,59882,13.19,2.31
+113,Manhattan,Greenwich Village North,36999,12.87,2.02
+114,Manhattan,Greenwich Village South,36589,13.0,2.24
+43,Manhattan,Central Park,45640,12.9,2.15
+237,Manhattan,Upper East Side South,135102,11.0,1.7
+226,Queens,Sunnyside,1806,20.19,4.72
+42,Manhattan,Central Harlem North,2082,21.29,3.9
+260,Queens,Woodside,519,18.28,4.16
+152,Manhattan,Manhattanville,1486,14.67,3.2
+61,Brooklyn,Crown Heights North,698,41.0,5.97
+79,Manhattan,East Village,58647,12.3,2.28
+90,Manhattan,Flatiron,42917,12.48,2.1
+4,Manhattan,Alphabet City,2449,13.85,2.67
+239,Manhattan,Upper West Side South,81114,11.43,2.08
+262,Manhattan,Yorkville East,37430,11.15,2.23
+234,Manhattan,Union Sq,70698,12.6,1.99
+144,Manhattan,Little Italy/NoLiTa,22768,14.21,2.45
+88,Manhattan,Financial District South,6112,18.99,4.71
+209,Manhattan,Seaport,3772,17.06,4.1
+264,Unknown,Unknown,8942,14.91,3.38
+45,Manhattan,Chinatown,3201,17.9,3.43
+236,Manhattan,Upper East Side North,127703,11.16,1.85
+170,Manhattan,Murray Hill,77322,13.15,2.22
+24,Manhattan,Bloomingdale,6911,12.63,2.38
+75,Manhattan,East Harlem South,15656,12.75,2.42
+87,Manhattan,Financial District North,10568,17.7,4.41
+116,Manhattan,Hamilton Heights,1577,17.84,3.91
+100,Manhattan,Garment District,44903,14.05,2.38
+230,Manhattan,Times Sq/Theatre District,98524,15.1,2.97
